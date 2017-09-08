@@ -14,6 +14,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require devise_bootstrap_views
 //= require twitter/bootstrap
 //= require rails-ujs
 //= require turbolinks
